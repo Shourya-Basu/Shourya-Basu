@@ -16,7 +16,7 @@
 <p>
   <a href="https://opencv.org/" > <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="Opencv" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a> 
-  <a href="https://matplotlib.org"> <img src="https://matplotlib.org/_static/logo_dark.svg" alt="MatPlotLib"width="40" height="40"/> </a> 
+  <a href="https://matplotlib.org"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_00x.png" alt="MatPlotLib"width="40" height="40"/> </a> 
   <a href="https://numpy.org"> <img src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.png?raw=true" alt="Numpy"  width="40" height="40"/> </a> 
   <a href="https://pytorch.org/"> <img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" alt="PyTorch" width="40" height="40"/> </a> 
  
@@ -25,4 +25,5 @@
 <p>
    <a href="https://www.kicad.org"> <img src="https://kicad.org/img/kicad_logo_paths.svg" alt="KiCad" width="40" height="40"/> </a> 
    <a href="https://www.onshape.com/en/"> <img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" alt="Onshape" width="40" height="40"/> </a> 
+   <a href="https://in.mathworks.com/"> <img src="https://in.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20250820203440005.svg" alt="MatLab" width="40" height="40"/> </a> 
 </p>
