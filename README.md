@@ -24,6 +24,5 @@
 <h4> Extra activity </h4>
 <p>
    <a href="https://www.kicad.org"> <img src="https://kicad.org/img/kicad_logo_paths.svg" alt="KiCad" width="40" height="40"/> </a> 
-   <a href="https://www.onshape.com/en/"> <img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" alt="Onshape" width="40" height="40"/> </a> 
    <a href="https://in.mathworks.com/"> <img src="https://in.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20250820203440005.svg" alt="MatLab" width="40" height="40"/> </a> 
 </p>
