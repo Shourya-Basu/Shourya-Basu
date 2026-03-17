@@ -3,34 +3,15 @@
 
 
 <h3 align="left">Skills</h3>
-<h4>Programing Language</h4>
-<p align="left">
-  <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.java.com" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-<h4> Database</h4>
-</p>
-<p>
-  <a href="https://www.mysql.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <h4> Machine Learning</h4>
-<p>
-  <a href="https://opencv.org/" > <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="Opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a> 
-  <a href="https://matplotlib.org"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_00x.png" alt="MatPlotLib"width="40" height="40"/> </a> 
-  <a href="https://numpy.org"> <img src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.png?raw=true" alt="Numpy"  width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/"> <img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" alt="PyTorch" width="40" height="40"/> </a> 
- 
-   </p>
-<h4> FrameWorks</h4>
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-<h4> Extra activity </h4>
-<p>
-   <a href="https://www.kicad.org"> <img src="https://kicad.org/img/kicad_logo_paths.svg" alt="KiCad" width="40" height="40"/> </a> 
-   <a href="https://in.mathworks.com/"> <img src="https://in.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20250820203440005.svg" alt="MatLab" width="40" height="40"/> </a> 
-</p>
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
