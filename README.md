@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I am Shourya Basu</h1>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills</h3>
 <h4>Programing Language</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
@@ -21,6 +21,12 @@
   <a href="https://pytorch.org/"> <img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" alt="PyTorch" width="40" height="40"/> </a> 
  
    </p>
+<h4> Frame Work Learning</h4>
+<p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
 <h4> Extra activity </h4>
 <p>
    <a href="https://www.kicad.org"> <img src="https://kicad.org/img/kicad_logo_paths.svg" alt="KiCad" width="40" height="40"/> </a> 
