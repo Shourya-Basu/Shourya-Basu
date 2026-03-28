@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I am Shourya Basu</h1>
 
-##Tech Stack
+## Tech Stack
 
 ###  Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -33,4 +33,3 @@
 ![NS2](https://img.shields.io/badge/NS2-333333?style=for-the-badge&logoColor=white)
 ### API & Testing Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
