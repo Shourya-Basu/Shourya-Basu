@@ -35,6 +35,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ### AI/ML Architectures
 ![ANN](https://img.shields.io/badge/ANN-FF6F00?style=for-the-badge&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![RNN](https://img.shields.io/badge/RNN-8B0000?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformer](https://img.shields.io/badge/Transformer-412991?style=for-the-badge&logo=huggingface&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-013243?style=for-the-badge&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-8B0000?style=for-the-badge&logoColor=white)
+![Transformer](https://img.shields.io/badge/Transformer-412991?style=for-the-badge&logoColor=white)
